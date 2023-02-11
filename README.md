@@ -1,2 +1,1 @@
-# precourse-henry
-repositorio modulo 2 del precourse de henry
+prueba de como crear un repositorio m2
